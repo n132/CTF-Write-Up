@@ -6,6 +6,6 @@
 
 - OOB to leak and attack
 
-# exploit
+# Exploit
 
 [exp.py](./exp.py)

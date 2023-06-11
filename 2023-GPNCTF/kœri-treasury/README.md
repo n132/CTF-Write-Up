@@ -6,6 +6,6 @@
 
 - OOB to modify the pointer and let it point to flag
 
-# exploit
+# Exploit
 
 [exp.py](./exp.py)
