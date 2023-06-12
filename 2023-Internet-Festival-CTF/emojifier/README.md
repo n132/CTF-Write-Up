@@ -1,11 +1,12 @@
 # Attachment
 
-[tarball](./koeri-stock.tar.gz)
+[tarball](emojifier.zip)
 
 # Solution
 
-- OOB to leak and attack
+- Rank all emojis to know the best choice to achieve longer overflow
+- Buffer Overflow
 
 # Exploit
 
-[exp.py](./exp.py)
+[exp.py](exp.py)
