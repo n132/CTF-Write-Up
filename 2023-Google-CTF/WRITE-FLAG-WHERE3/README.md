@@ -4,7 +4,7 @@
 
 # Solution
 
-- You can write any where in memory if you have access to file `/proc/self/mem`.
+- WE can write anywhere in memory if you have access to file `/proc/self/mem`.
 - Edit libc to bypass exit 
 - ROP
 
