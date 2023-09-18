@@ -11,4 +11,5 @@
 * 2023.06.18 [**Codegate Preliminary 2023**](2023-Codegate-Preliminary), 6th
 * 2023.06.25 [**Google CTF 2023**](2023-Google-CTF), 13rd
 * 2023.07.06 [**Securinets CTF Quals 2023**](2023-Securinets-CTF-Quals), 2nd
+* 2023.09.10 [**HITCON CTF Quals 2023**](2023-HITCON), 16th
 
