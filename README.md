@@ -2,6 +2,11 @@
 
 - Archive personal CTF write ups
 
+# 2024
+
+* 2024.02.04 [**Dice CTF 2024**](2023-Dice-CTF), 18th
+
+
 
 # 2023
 
