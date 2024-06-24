@@ -5,6 +5,8 @@
 # 2024
 
 * 2024.02.04 [**Dice CTF 2024**](2024-Dice-CTF), 18th
+* 2024.06.24 [**GoogleCTF 2024** ](2024-GoogleCTF), 48th
+
 
 
 
