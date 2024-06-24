@@ -1,6 +1,6 @@
 # Attachment
 
-[Attachment](knife.tgz)
+[Attachment](knife.zip)
 
 # Vulnerability
 - OOB in put
