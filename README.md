@@ -6,7 +6,7 @@
 
 * 2024.02.04 [**Dice CTF 2024**](2024-Dice-CTF), 18th
 * 2024.06.22 [**Google CTF 2024** ](2024-Google-CTF), 48th
-* 
+* 2024.07.01 [**UIUCTF 2024** ](2024-UIUC-CTF), 2nd
 
 
 
