@@ -8,7 +8,7 @@
 * 2024.06.22 [**Google CTF 2024** ](2024-Google-CTF), 48th
 * 2024.07.01 [**UIUCTF 2024** ](2024-UIUC-CTF), 2nd
 * 2024.08.04 [**CrewCTF 2024** ](2024-Crew-CTF), 18th
-
+* 2024.12.15 [**TSG CTF 2024**](2024-TSG_CTF), 4th
 
 
 # 2023
