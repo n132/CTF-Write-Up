@@ -1,6 +1,9 @@
 # CTF-Write-Up
 
 - Archive personal CTF write ups
+# 2025
+* 2025.04.04 [**Plaid CTF 2025**](2025-Plaid-CTF), 18th
+
 
 # 2024
 
